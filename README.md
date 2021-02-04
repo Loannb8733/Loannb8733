@@ -1,6 +1,6 @@
-<center>  
-  [![Banière](https://github.com/Loannb8733/Loannb8733/blob/main/logoMarkdown.PNG)](https://loann-portfolio.000webhostapp.com/)
-</center
+<a href="https://loann-portfolio.000webhostapp.com/">
+  <img align="center" src="https://github.com/Loannb8733/Loannb8733/blob/main/logoMarkdown.PNG">  
+</a>
  
 ### Je vous souhaite la bienvenue sur mon Github 👋
 
