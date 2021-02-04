@@ -1,5 +1,8 @@
-### Hi there 👋
-[![Banière](https://github.com/Loannb8733/Loannb8733/blob/main/logoMarkdown.PNG)](https://loann-portfolio.000webhostapp.com/)
+<center>  
+  [![Banière](https://github.com/Loannb8733/Loannb8733/blob/main/logoMarkdown.PNG)](https://loann-portfolio.000webhostapp.com/)
+</center
+ 
+### Je vous souhaite la bienvenue sur mon Github 👋
 
 <!--
 **Loannb8733/Loannb8733** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
