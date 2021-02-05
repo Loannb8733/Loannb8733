@@ -13,18 +13,18 @@
 </p>
 
 <h2 align"center"> Comment me contacter :calling: </h2>
+
 <div>
+  <a href="https://www.linkedin.com/in/loann-bourdier-1937571b8/"> <img align="left" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"
+  hspace="20"/></a>
 
-<img href="https://www.linkedin.com/in/loann-bourdier-1937571b8/" align="left" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" hspace="20"/>
+  <a href="https://github.com/Loannb8733"> <img align="left" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" hspace="20"/></a>
 
-<img href="https://github.com/Loannb8733" align="left" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" hspace="20"/>
+  <a href="https://www.instagram.com/loann8733/"> <img align="left" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" hspace="20"/></a>
 
-<img href="https://www.instagram.com/loann8733/" align="left" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" hspace="20"/>
+  <a href="https://www.facebook.com/loann.bourdier"> <img align="left" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" hspace="20"/>     </a>
 
-<img align="left" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg
-" hspace="20"/>
-
-<a href="mailto:loann.bourdier@yahoo.fr"><img align="left" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" hspace="20"/></a>
+  <a href="mailto:loann.bourdier@yahoo.fr"><img align="left" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" hspace="20"/></a>
 </div>
 
 
