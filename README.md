@@ -24,7 +24,7 @@
 
   <a href="https://www.facebook.com/loann.bourdier"> <img align="left" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" hspace="20"/>     </a>
 
-  <a href="mailto:loann.bourdier@yahoo.fr"><img align="left" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" hspace="20"/></a>
+  <a href="mailto:loann.bourdier@yahoo.fr"><img align="left" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/yahoo.svg" hspace="20"/></a>
 </div>
 
 
