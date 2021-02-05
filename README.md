@@ -6,7 +6,29 @@
  
 <h1 align="center"> Je vous souhaite la bienvenue sur mon Github 👋 </h1>
 
-<h1> A propos de moi !!! </h2><img height="30px" src="https://img.icons8.com/bubbles/50/000000/about-me-male.png"/>
+<h2 align="center"> A propos de moi !!! :sassy_man: </h2>
+<p> 
+  Etudiant en DUT informatique </br>
+  Pour en savoir plus sur moi, il vous est possible de consulter mon <a href="https://loann-portfolio.000webhostapp.com/"> portfolio </a> toujours en cours de développement sur   mobile et tablettes :earth_americas:
+</p>
+
+<h2 align"center"> Comment me contacter :calling: </h2>
+<div>
+
+<img href="https://www.linkedin.com/in/loann-bourdier-1937571b8/" align="left" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" hspace="20"/>
+
+<img href="https://github.com/Loannb8733" align="left" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" hspace="20"/>
+
+<img href="https://www.instagram.com/loann8733/" align="left" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" hspace="20"/>
+
+<img align="left" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg
+" hspace="20"/>
+
+<a href="mailto:loann.bourdier@yahoo.fr"><img align="left" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" hspace="20"/></a>
+</div>
+
+
+
   
  
 
