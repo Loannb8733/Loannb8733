@@ -10,7 +10,7 @@
 ## <div align="center"> A propos de moi !!! :sassy_man: </div>
 <p> 
   Etudiant en DUT informatique </br>
-  Pour en savoir plus sur moi, il vous est possible de consulter mon <a href="https://loann-portfolio.000webhostapp.com/"> portfolio </a> toujours en cours de développement     sur mobile et tablettes :earth_americas:
+  Pour en savoir plus sur moi, il vous est possible de consulter mon <a href="https://loann-portfolio.000webhostapp.com/"> portfolio </a> toujours en cours de développement     sur mobile et tablettes 🌐
 </p>
 
 ## <div align="center"> Comment me contacter :calling: </div>
