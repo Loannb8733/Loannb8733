@@ -6,9 +6,7 @@
  
 <h1 align="center"> Je vous souhaite la bienvenue sur mon Github 👋 </h1>
 
-<div style="vertical-align: middle; float: left;"> <h2> A propos de moi !!!  
-<div style="float: right;"> <img src="https://img.icons8.com/bubbles/50/000000/about-me-male.png"/> </div>
-</div>
+<h1> A propos de moi !!! </h2><img height="30px" src="https://img.icons8.com/bubbles/50/000000/about-me-male.png"/>
   
  
 
