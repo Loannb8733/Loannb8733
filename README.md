@@ -31,8 +31,8 @@
 
 ## <div align="center"> Quelques statistiques de mon GitHub :chart_with_upwards_trend: </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Loannb8733&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Loannb8733&hide=contribs,prs&theme=cobalt)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=&hide=contribs,prs&theme=cobalt)
 
  
 
