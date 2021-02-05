@@ -6,14 +6,14 @@
  
 <h1 align="center"> Je vous souhaite la bienvenue sur mon Github 👋 </h1>
 
-<h2 align="center"> A propos de moi !!! :sassy_man: </h2>
+
+## <div align="center"> A propos de moi !!! :sassy_man: </div>
 <p> 
   Etudiant en DUT informatique </br>
-  Pour en savoir plus sur moi, il vous est possible de consulter mon <a href="https://loann-portfolio.000webhostapp.com/"> portfolio </a> toujours en cours de développement sur   mobile et tablettes :earth_americas:
+  Pour en savoir plus sur moi, il vous est possible de consulter mon <a href="https://loann-portfolio.000webhostapp.com/"> portfolio </a> toujours en cours de développement     sur mobile et tablettes :earth_americas:
 </p>
 
-<h2 align"center"> Comment me contacter :calling: </h2>
-
+## <div align="center"> Comment me contacter :calling: </div>
 <div>
   <a href="https://www.linkedin.com/in/loann-bourdier-1937571b8/"> <img align="left" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"
   hspace="20"/></a>
@@ -27,9 +27,13 @@
   <a href="mailto:loann.bourdier@yahoo.fr"><img align="left" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/yahoo.svg" hspace="20"/></a>
 </div>
 
+</br>
 
+## <div align="center"> Quelques statistiques de mon GitHub :chart_with_upwards_trend: </div>
 
-  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Loannb8733&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Loannb8733&hide=contribs,prs&theme=cobalt)
+
  
 
 <!--
