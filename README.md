@@ -35,8 +35,9 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Loannb8733&hide=contribs,prs&theme=cobalt)
 
 
- 
-
+ ## <div align="center"> Projets :computer:	 </div>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Loannb8733&repo=projet-PILAF&theme=cobalt)](https://github.com/Loannb8733/projet-PILAF)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Loannb8733&repo=SiteCombava&theme=cobalt)](https://github.com/Loannb8733/SiteCombava)
 <!--
 **Loannb8733/Loannb8733** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
