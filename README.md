@@ -1,6 +1,6 @@
 <a href="https://loann-portfolio.000webhostapp.com/">
   <p align="center">
-    <img style="display: block; margin-left: auto; margin-right: auto;" src="https://github.com/Loannb8733/Loannb8733/blob/main/logoMarkdown.PNG">  
+    <img style="display: block; margin-left: auto; margin-right: auto;" src="https://github.com/Loannb8733/Loannb8733/blob/main/logoMarkdown.png">  
   </p>
 </a>
  
