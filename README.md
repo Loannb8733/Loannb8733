@@ -10,7 +10,7 @@
 ## <div align="center"> A propos de moi !!! :sassy_man: </div>
 <p> 
   Actuellement étudiant en deuxième année d'IUT (Institut Universitaire Technologique) Informatique à Limoges, je suis une personne qui aime apprendre constamment de           nouvelles choses. J'ai décidé de travaillé dans l'informatique car ce domaine est en constante évolution, c'est pourquoi je serai certain de trouver du travail dans les       années à venir. De plus j'ai également décidé de me diriger vers ce domaine car j'aime apprendre de nouvelles choses au quotidien. Le travail d'équipe est quelque chose que   j'apprécie énoemément. Cependant, je sais aussi mener un projet seul. Je suis sérieux, autonome, à l'écoute de tous conseils que l'on peut me donner et ai une facilité       d'adaptation. </br></br>
-  Pour en savoir plus sur moi, il vous est possible de consulter mon <a href="https://loannb8733.github.io/Portfolio/"> portfolio </a> toujours en cours de développement     sur mobile et tablettes 🌐
+  Pour en savoir plus sur moi, il vous est possible de consulter mon <a href="https://loannb8733.github.io/Portfolio/"> portfolio </a> 🌐
 </p>
 
 ## <div align="center"> Comment me contacter :calling: </div>
